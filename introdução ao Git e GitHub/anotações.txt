@@ -1,0 +1,10 @@
+O git bash é um terminal extendido para otimizar o uso do git
+comandos git
+- git clone = clona um repositorio.
+- git status = Status do repositorio.
+- git config --global user.email "" = Configura email do autor.
+- git config --global user.name "" = Configura nome do autor.
+- git add . /git add -A = Enviar reositório para controle de versão.
+- git commit -m "" = Commitar o repositorio.
+- git push origin main = Envia dos os commites para a nuvem (branch main).
+
